@@ -24,3 +24,4 @@ func sum(num1 : Int, num2 : Int)->Int{
 
 print("Hello Git Hub")
 print("why commit Cannot")
+print("Github에 올리고 싶다")
