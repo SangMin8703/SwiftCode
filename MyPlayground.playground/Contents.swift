@@ -1,4 +1,3 @@
-import UIKit
 import Darwin
 
 var greeting = "Hello, playground"
